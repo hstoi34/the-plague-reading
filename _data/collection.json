@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Reading of \"The Plauge\" by Albert Camus, Translation by Laura Marris" ] },
+    "summary": { "en": [ "Reading of the first page of \"The Plague\"" ] },
+    "items": [
+    ]
+}
